@@ -1,0 +1,8 @@
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.csproj.AssemblyReference.cache
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.AssemblyInfoInputs.cache
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.AssemblyInfo.cs
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.csproj.CoreCompileInputs.cache
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.RazorAssemblyInfo.cache
+D:\visual studio projects\FilesMvcs\FilesMvcs\obj\Debug\net8.0\FilesMvcs.RazorAssemblyInfo.cs

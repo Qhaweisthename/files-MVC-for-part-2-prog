@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio projects\\FilesMvcs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|d:\\visual studio projects\\filesmvcs\\filesmvcs\\views\\fileupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|solutionrelative:filesmvcs\\views\\fileupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|d:\\visual studio projects\\filesmvcs\\filesmvcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|solutionrelative:filesmvcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|d:\\visual studio projects\\filesmvcs\\filesmvcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|solutionrelative:filesmvcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|d:\\visual studio projects\\filesmvcs\\filesmvcs\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|solutionrelative:filesmvcs\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|d:\\visual studio projects\\filesmvcs\\filesmvcs\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|solutionrelative:filesmvcs\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|d:\\visual studio projects\\filesmvcs\\filesmvcs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|solutionrelative:filesmvcs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|d:\\visual studio projects\\filesmvcs\\filesmvcs\\models\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4A8B60-8FBC-4136-A3E7-3AB1E3DFEBD3}|FilesMvcs\\FilesMvcs.csproj|solutionrelative:filesmvcs\\models\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FilesMvcs\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FilesMvcs\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:17:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Views\\FileUpload\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilesMvcs\\Views\\FileUpload\\Index.cshtml",
+              "ToolTip": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Views\\FileUpload\\Index.cshtml",
+              "RelativeToolTip": "FilesMvcs\\Views\\FileUpload\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:16:02.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "FilesMvcs\\Controllers\\FileUploadController.cs",
+              "ToolTip": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "FilesMvcs\\Controllers\\FileUploadController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:12:32.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Files.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Models\\Files.cs",
+              "RelativeDocumentMoniker": "FilesMvcs\\Models\\Files.cs",
+              "ToolTip": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Models\\Files.cs",
+              "RelativeToolTip": "FilesMvcs\\Models\\Files.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:45:59.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Program.cs",
+              "RelativeDocumentMoniker": "FilesMvcs\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Program.cs",
+              "RelativeToolTip": "FilesMvcs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:42:57.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\appsettings.json",
+              "RelativeDocumentMoniker": "FilesMvcs\\appsettings.json",
+              "ToolTip": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\appsettings.json",
+              "RelativeToolTip": "FilesMvcs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T06:40:35.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FilesMvcs\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\visual studio projects\\FilesMvcs\\FilesMvcs\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FilesMvcs\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:32:36.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
